@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eYTuOlgZ)
+# BUILDER CREATIONAL PATTERN 
+
+This repository implements the making of a car using the Builder creational pattern.
+
+## Installation
+
+1.  Make sure to have java installed on your machine
+
+2.  Clone the repository using this command line on your Bash :
+   ```bash
+git clone 
+  ```
+3.  You can run the program and its tests using an IDE 
