@@ -8,6 +8,6 @@ This repository implements the making of a car using the Builder creational patt
 
 2.  Clone the repository using this command line on your Bash :
    ```bash
-git clone 
+git clone https://github.com/hei-school/builder-pattern-Steven1805.git
   ```
 3.  You can run the program and its tests using an IDE 
